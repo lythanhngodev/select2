@@ -8,6 +8,6 @@ To configure custom options when you initialize Select2, simply pass an object i
 
 ```
 $('.js-example-basic-single').select2({
-  placeholder: 'Select an option'
+  placeholder: 'Select an option',
 });
 ```
